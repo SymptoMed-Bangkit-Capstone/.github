@@ -1,1 +1,1 @@
-# .github
+# SymptoMed App
