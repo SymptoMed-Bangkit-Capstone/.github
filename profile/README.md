@@ -3,8 +3,8 @@
   <a href="https://github.com/SymptoMed-Bangkit-Capstone">
     <img src="profile/media/SymptoMed Panjang.png" width='750dp' alt="Logo" >
   </a>
-  <p style="text-align: center; font-size: 20px;">SymptoMed</font></p>
-  <p style="text-align: center; font-size: 14px;">"Your Personal Health Care Assistant"</font></p>
+  <h1 align="center">SymptoMed</h1>
+  <h2 align="center">"Your Personal Health Care Assistant"</p>
   <br/>
   
   <p align="center">
@@ -118,13 +118,13 @@ The research questions will focus on the effectiveness of the app in accurately 
 <p>&nbsp;&nbsp;</p>
 
 - **Mobile Development**
-<h3>
-  <div style="text-align: center;">
-    <p>Screenshots</p>
-    <img src="profile/media/satu.png" alt= "" height="50%">
-    <img src="profile/media/dua.png" alt= "" height="75%">
-    <img src="profile/media/tiga.png" alt= "" height="75%">
-</h3>
+  <h3>
+    <div style="text-align: center;">
+      <p>Screenshots</p>
+      <img src="profile/media/satu.png" alt= "" height="50%">
+      <img src="profile/media/dua.png" alt= "" height="75%">
+      <img src="profile/media/tiga.png" alt= "" height="75%">
+  </h3>
 <br>
 
 # Our Repository
@@ -143,5 +143,5 @@ The research questions will focus on the effectiveness of the app in accurately 
 
 <p>&nbsp;&nbsp;</p>
 
-<div style="text-align:center; font-size:60px">Thanks!</div>
+<h1 align="center">Thanks!</h1>
 <br>
