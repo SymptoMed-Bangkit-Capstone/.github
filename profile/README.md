@@ -121,48 +121,9 @@ The research questions will focus on the effectiveness of the app in accurately 
 <h3>
   <div style="text-align: center;">
     <p>Screenshots</p>
-    <div class="row" style="justify-content: center;">
-      <div class="columnA">
-        <img src="profile/media/0.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnA">
-        <img src="profile/media/1.png" alt="" style="width: 100%;">
-      </div>
-    </div>
-    <div class="row" style="justify-content: space-between;">
-      <div class="columnB">
-        <img src="profile/media/2.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnB">
-        <img src="profile/media/3.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnB">
-        <img src="profile/media/4.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnB">
-        <img src="profile/media/5.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnB">
-        <img src="profile/media/6.png" alt="" style="width: 100%;">
-      </div>
-    </div>
-    <div class="row" style="justify-content: space-between;">
-      <div class="columnB">
-        <img src="profile/media/7.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnB">
-        <img src="profile/media/8.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnB">
-        <img src="profile/media/9.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnB">
-        <img src="profile/media/10.png" alt="" style="width: 100%;">
-      </div>
-      <div class="columnB">
-        <img src="profile/media/11.png" alt="" style="width: 100%;">
-      </div>
-    </div>
+    <img src="profile/media/satu.png" alt= "" height="50%">
+    <img src="profile/media/dua.png" alt= "" height="75%">
+    <img src="profile/media/tiga.png" alt= "" height="75%">
 </h3>
 <br>
 
