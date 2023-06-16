@@ -145,23 +145,3 @@ The research questions will focus on the effectiveness of the app in accurately 
 
 <div style="text-align:center; font-size:60px">Thanks!</div>
 <br>
-
-<style>
-.columnA {
-  display: inline-block;
-  width: 33.33%;
-  padding: 5px;
-  text-align: center;
-}
-.columnB {
-  display: inline-block;
-  width: 18.5%;
-  padding: 5px;
-  text-align: center;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
