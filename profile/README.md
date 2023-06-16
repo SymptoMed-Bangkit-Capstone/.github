@@ -3,8 +3,8 @@
   <a href="https://github.com/SymptoMed-Bangkit-Capstone">
     <img src="profile/media/SymptoMed Panjang.png" width='750dp' alt="Logo" >
   </a>
-  <p align="center"><font size="42">SymptoMed</font></p>
-  <p align="center"><font size="18">"Your Personal Health Care Assistant"</font></p>
+  <p style="text-align: center; font-size: 20px;">SymptoMed</font></p>
+  <p style="text-align: center; font-size: 14px;">"Your Personal Health Care Assistant"</font></p>
   <br/>
   
   <p align="center">
