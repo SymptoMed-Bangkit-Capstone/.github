@@ -32,15 +32,13 @@
   <h1>
     <details open="open">
     <summary>Table of Contents</summary>
-  </h1>
-    <h2>
       <ol>
-        <li><a href="#about-the-project">About The Project</a></li>
-        <li><a href="#app-overview">App Overview</a></li>
-        <li><a href="#our-repository">Repository Link</a></li>
+        <li><h5><a href="#about-the-project">About The Project</a></h5></li>
+        <li><h5><a href="#app-overview">App Overview</a></h5></li>
+        <li><h5><a href="#our-repository">Repository Link</a></h5></li>
       </ol>
-    </h2>
-  </details>
+    </details>
+  </h1>
 <br>
 
 # About The Project
