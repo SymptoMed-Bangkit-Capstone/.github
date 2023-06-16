@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/SymptoMed-Bangkit-Capstone">
-    <img src="media/SymptoMed Panjang.png" width='750dp' alt="Logo" >
+    <img src="profile/media/SymptoMed Panjang.png" width='750dp' alt="Logo" >
   </a>
   <p align="center"><font size="16">SymptoMed</font></p>
   <p align="center"><font size="5">"Your Personal Health Care Assistant"</font></p>
@@ -80,7 +80,7 @@ The research questions will focus on the effectiveness of the app in accurately 
   <p>&nbsp;&nbsp;</p>
 
 - **Cloud Architecture**
-  <img src="media/Cloud Architecture.png" alt="Project Arch" >
+  <img src="profile/media/Cloud Architecture.png" alt="Project Arch" >
   <p>&nbsp;&nbsp;</p>
 
 - **Machine Learning Model**
@@ -92,12 +92,12 @@ The research questions will focus on the effectiveness of the app in accurately 
           <div style="text-align:center;">
             <ol>
               <p>Model Performance</p>
-              <img src="media/ds performance.png" alt="Model Performance" >
+              <img src="profile/media/ds performance.png" alt="Model Performance" >
             </ol>
             <p>&nbsp;&nbsp;</p>
             <ol>
               <p>Classification Report</p>
-              <img src="media/ds report.png" alt="Model Performance" >
+              <img src="profile/media/ds report.png" alt="Model Performance" >
             </ol>
           </div>
       </li>
@@ -108,7 +108,7 @@ The research questions will focus on the effectiveness of the app in accurately 
           <div style="text-align:center;">
             <ol>
               <p>Model Performance</p>
-              <img src="media/nlp performance.png " alt="Model Performance" >
+              <img src="profile/media/nlp performance.png " alt="Model Performance" >
             </ol>
           </div>
       </li>
@@ -123,44 +123,44 @@ The research questions will focus on the effectiveness of the app in accurately 
     <p>Screenshots</p>
     <div class="row" style="justify-content: center;">
       <div class="columnA">
-        <img src="media/0.png" alt="" style="width: 100%;">
+        <img src="profile/media/0.png" alt="" style="width: 100%;">
       </div>
       <div class="columnA">
-        <img src="media/1.png" alt="" style="width: 100%;">
+        <img src="profile/media/1.png" alt="" style="width: 100%;">
       </div>
     </div>
     <div class="row" style="justify-content: space-between;">
       <div class="columnB">
-        <img src="media/2.png" alt="" style="width: 100%;">
+        <img src="profile/media/2.png" alt="" style="width: 100%;">
       </div>
       <div class="columnB">
-        <img src="media/3.png" alt="" style="width: 100%;">
+        <img src="profile/media/3.png" alt="" style="width: 100%;">
       </div>
       <div class="columnB">
-        <img src="media/4.png" alt="" style="width: 100%;">
+        <img src="profile/media/4.png" alt="" style="width: 100%;">
       </div>
       <div class="columnB">
-        <img src="media/5.png" alt="" style="width: 100%;">
+        <img src="profile/media/5.png" alt="" style="width: 100%;">
       </div>
       <div class="columnB">
-        <img src="media/6.png" alt="" style="width: 100%;">
+        <img src="profile/media/6.png" alt="" style="width: 100%;">
       </div>
     </div>
     <div class="row" style="justify-content: space-between;">
       <div class="columnB">
-        <img src="media/7.png" alt="" style="width: 100%;">
+        <img src="profile/media/7.png" alt="" style="width: 100%;">
       </div>
       <div class="columnB">
-        <img src="media/8.png" alt="" style="width: 100%;">
+        <img src="profile/media/8.png" alt="" style="width: 100%;">
       </div>
       <div class="columnB">
-        <img src="media/9.png" alt="" style="width: 100%;">
+        <img src="profile/media/9.png" alt="" style="width: 100%;">
       </div>
       <div class="columnB">
-        <img src="media/10.png" alt="" style="width: 100%;">
+        <img src="profile/media/10.png" alt="" style="width: 100%;">
       </div>
       <div class="columnB">
-        <img src="media/11.png" alt="" style="width: 100%;">
+        <img src="profile/media/11.png" alt="" style="width: 100%;">
       </div>
     </div>
 </h3>
@@ -177,7 +177,7 @@ The research questions will focus on the effectiveness of the app in accurately 
 
 # Supported By
 <div style="justify-content: center;">
-    <img src="media/transparent - bangkit -km.png" alt="" style="width: 100%;">
+    <img src="profile/media/transparent - bangkit -km.png" alt="" style="width: 100%;">
 </div>
 
 <p>&nbsp;&nbsp;</p>
