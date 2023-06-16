@@ -3,8 +3,8 @@
   <a href="https://github.com/SymptoMed-Bangkit-Capstone">
     <img src="profile/media/SymptoMed Panjang.png" width='750dp' alt="Logo" >
   </a>
-  <p align="center"><font size="16">SymptoMed</font></p>
-  <p align="center"><font size="5">"Your Personal Health Care Assistant"</font></p>
+  <p align="center"><font size="42">SymptoMed</font></p>
+  <p align="center"><font size="18">"Your Personal Health Care Assistant"</font></p>
   <br/>
   
   <p align="center">
@@ -44,19 +44,19 @@
 
 # About The Project
 
-<p style="text-align:justify;">
+<p align="justify">
 SymptoMed is the name that combines the words "symptom" and "Medicine". The philosophy behind this name is that the app is designed to help users understand the symptoms they are experiencing and provide precise and accurate medical information. By understanding the symptoms experienced, users can easily know what might be the cause and what action to take based on model suggestions.
 </p>
 
-<p style="text-align:justify;">
+<p align="justify">
 People usually struggle to self-diagnose and find the right medication for their illness. This can result in inappropriate self-medication, which can lead to more severe health problems. Due to this problem, the purpose of this study is to develop a mobile application that can diagnose diseases and recommend suitable meds based on the symptoms reported by the user.
 </p>
 
-<p style="text-align:justify;">
+<p align="justify">
 The app will enable users to input their symptoms and receive personalized meds recommendations. The app will use machine learning to analyze user input and provide recommendations. By providing a simple and reliable tool to diagnose and recommend meds such as vitamin, nutritional and lifestyle recommendations according to user symptoms. Hopefully, this app can address these issues and improve overall health outcomes for users.
 </p>
 
-<p style="text-align:justify;">
+<p align="justify">
 The research questions will focus on the effectiveness of the app in accurately diagnosing diseases and recommending meds. Team members will also explore the user experience of the app and gather feedback to improve its function and usage. The team is passionate about using technology to improve healthcare outcomes and believes that this project has the potential to make a significant impact on people's lives.
 </p>
 
@@ -69,7 +69,7 @@ The research questions will focus on the effectiveness of the app in accurately 
   <p>&nbsp;&nbsp;</p>
   
 - **Installation**
-  1.  Download the APK from [here]()
+  1.  Download the APK from [here](https://drive.google.com/file/d/1oV7DNBgYn71-YjVFHpV6ItM25zl7vO1X/)
   2.  Install the APK
   <p>&nbsp;&nbsp;</p>
 
