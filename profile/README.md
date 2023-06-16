@@ -3,17 +3,18 @@
   <a href="https://github.com/SymptoMed-Bangkit-Capstone">
     <img src="profile/media/SymptoMed Panjang.png" width='750dp' alt="Logo" >
   </a>
-  <h1 align="center">SymptoMed</h1>
-  <h2 align="center">"Your Personal Health Care Assistant"</p>
-  <br/>
-  
-  <p align="center">
-  This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a> Program.
-    <br />
-    © C23-PC694 Bangkit Capstone Team
-    <p>&nbsp;&nbsp;</p>
-  </p>
 </p>
+
+<h1 align="center">SymptoMed</h1>
+<h2 align="center">"Your Personal Health Care Assistant"</p>
+<br/>
+
+<h3 align="center">
+  This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a> Program.
+  <br />
+  © C23-PC694 Bangkit Capstone Team
+</h3>
+<p>&nbsp;&nbsp;</p>
 
 # Team Members (C23-PC694)
 <br>
